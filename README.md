@@ -1,19 +1,22 @@
-## CS150 Assignment 3
+## Intro to C++ I
 
-Can I Retire???
+**Assign 03 - Can I Retire?**
 
-**Date assigned:** Wednesday, September 28, 2021
+**Date assigned:** 
 
-**Program due:** Wednesday, October 6, 2021, \[9:15AM Sect 02; 1:00PM
-Sect 01\]
+**Program due:**
 
-**Points:** 25
+**Points:**
+
+**This is an individual assignment.**
 
 **Goals:**
 
-1.  Understand how to construct and use a loop
+1.  Use concepts through loops to solve a more sophisticated problem
 
-2.  More data validation
+2.  Understand exponential growth
+
+3.  Validate input data
 
 **Retirement Questions**
 
