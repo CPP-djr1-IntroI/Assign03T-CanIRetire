@@ -121,13 +121,12 @@ very doable!!!!
 
 1.  **An electronic Solution of your program on GitHub**
 
-    a.  You are to click on the Assign03 GitHub Assignment Link on
-        Moodle to accept this assignment as we've done in lab. Once
-        accepted, code up a complete solution to the above assignment
-        specification. Your complete solution is to be pushed to GitHub
-        no later than the date and time specified above for your
-        specific section. I will only grade your solution from the
-        proper location on GitHub.
+    a.  You are to click on the Assign03 Link to accept this
+        assignment as we've done in lab. Once accepted, code up a
+        complete solution to the above assignment specification. Your
+        complete solution is to be pushed to GitHub no later than the
+        date and time specified above for your specific section. I will
+        only grade your solution from the proper location on GitHub.
 
     b.  Pay attention to the example output above. Your program's output
         must look **exactly** like the example output! The spacing and
@@ -138,15 +137,5 @@ very doable!!!!
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic copy of your program is to be placed on Moodle**
-
-    a.  See Lab01 for producing a pdf of your complete program. Once you
-        have produced the pdf of your program and named the pdf your
-        **punetid**, drop the pdf in the Assign03 folder on Moodle.
-
-    b.  The pdf must be in the drop folder on Moodle by the time and day
-        specified above. Anything submitted after that will be
-        considered late.
-
-> **Good luck! And remember, if you have any problems, come and see
-> straight away.
+2.   **An electronic copy of your program (punetidAssign03CanIRetire.pdf) is 
+to be emailed to ryandj@pacificu.edu**
